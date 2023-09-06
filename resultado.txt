@@ -1,0 +1,4 @@
+Julia:Reprovado
+Ana:Aprovado
+Marcos:Recuperação
+Pedro:Aprovado
